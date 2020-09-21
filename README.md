@@ -1,3 +1,4 @@
 # Learn-Matplotlib-Python
 learn matplotlib using this jupyter notebook
-# This Jupyter notebook was made parralel with the video tutorial https://www.youtube.com/playlist?list=PL0LnRPLeecJjicSq2Kp0IggJcEvrRlHTL
+#his Jupyter notebook was made parralel with the video tutorial 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0LnRPLeecJjicSq2Kp0IggJcEvrRlHTL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
